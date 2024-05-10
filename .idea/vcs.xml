@@ -2,7 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FinancialVision" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/TimeGAN 2019 paper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/machine-learning-for-trading" vcs="Git" />
   </component>
 </project>
